@@ -1,4 +1,4 @@
-# La ruta de aprendizaje
+# MiTuto-R
 
 Juego web familiar de práctica escolar para Primaria.
 
