@@ -8,11 +8,11 @@ Juego web familiar de práctica escolar para Primaria.
 |---|---:|---|
 | Lengua | 1.º | Lectura inicial, copia de palabras y ahorcado |
 | Lengua | 3.º | Sinónimos y antónimos, lectura comprensiva y dictado |
-| Ciencias Sociales | 3.º | Personas y convivencia, colegio y localidad, seguridad vial y examen |
+| Ciencias Sociales | 3.º | Tarjetas mezcladas: completar huecos, selección, señales de tráfico y examen combinado |
 
 La aplicación conserva un progreso independiente por `asignatura + curso` en el navegador.
 
-El contenido de Ciencias Sociales se limita a los seis esquemas curriculares aportados para 3.º de Primaria. Sus preguntas se organizan como datos dentro de la misma interfaz y estructura de aprendizaje; no existe una segunda web separada.
+El contenido de Ciencias Sociales se limita a los seis esquemas curriculares aportados para 3.º de Primaria. Alterna tarjetas de respuesta escrita y selección para practicar en orden diferente en cada intento; la señal triangular de peligro con dos niños se ha incorporado a partir de la ficha de seguridad vial. No existe una segunda web separada.
 
 ## Publicación
 
