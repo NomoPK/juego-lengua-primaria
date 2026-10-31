@@ -9,6 +9,7 @@ Juego web familiar de práctica escolar para Primaria.
 | Lengua | 1.º | Lectura inicial, copia de palabras y ahorcado |
 | Lengua | 3.º | Sinónimos y antónimos, lectura comprensiva y dictado |
 | Ciencias Sociales | 3.º | Tarjetas mezcladas: completar huecos, selección, señales de tráfico y examen combinado |
+| Ciencias Naturales | 3.º | Seres vivos e inertes, cinco reinos, animales y ecosistemas; completar huecos, selección, clasificación, ordenación y examen combinado |
 
 La aplicación conserva un progreso independiente por `asignatura + curso` en el navegador.
 
